@@ -14,7 +14,7 @@ Ardiuno
 
 <br>
 ### Circuit Test
-[https://youtu.be/ltQ0vTkZ6gA](https://youtu.be/Xg5eaAI7Ekk)
+https://youtu.be/Xg5eaAI7Ekk
 
 <br>
 
